@@ -1,0 +1,4 @@
+1. Interfaces can have abstract methods and variables. It cannot have a method body.
+2.It cannot be instantiated just like the abstract class.
+3. It supports public,private(java-9),default methods
+4. By interface, we can support the functionality of multiple inheritance.
