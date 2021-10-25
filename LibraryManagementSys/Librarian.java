@@ -22,6 +22,7 @@ public class Librarian extends person{
     }
     private static int makeFine(float fineAmount){
         // set fine amount against user(student).If any previous fine exist,add up.
+        // for late return Rs.@1/day
     }
     private static void addBook(Libr libr,Books book){
 
@@ -29,5 +30,5 @@ public class Librarian extends person{
     private static void addJournel(Libr libr,Journel jrnl){
 
     }
-    
+
 }
